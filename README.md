@@ -12,7 +12,6 @@ ACL 2018 Accepted Papers
 |Semantic Parsing|Semantic Parsing with Syntax- and Table-Aware SQL Generation. Yibo Sun, Duyu Tang, Nan Duan, Jianshu Ji, Guihong Cao, Xiaocheng Feng, Bing Qin, Ting Liu, Ming Zhou.|
 |Semantic Parsing|Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing. Bo Chen, Le Sun, Xianpei Han.|
 |Semantic Parsing|StructVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing. Pengcheng Yin, Chunting Zhou, Junxian He, Graham Neubig.|
-|:-|:-|
 | |Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings. Yang Xu, Jiawei Liu, Wei Yang, Liusheng Huang.|
 | |Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism. Xiangrong Zeng, Daojian Zeng, Shizhu He, Kang Liu, Jun Zhao.|
 | |Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures. Wenqiang Lei, Xisen Jin, Min-Yen Kan, Zhaochun Ren, Xiangnan He, Dawei Yin.|
