@@ -3,6 +3,7 @@ ACL 2018 Accepted Papers
 
 |titles|papers|
 |:-|:-|
+||Long Papers|
 | |Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings. Yang Xu, Jiawei Liu, Wei Yang, Liusheng Huang.|
 | |Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism. Xiangrong Zeng, Daojian Zeng, Shizhu He, Kang Liu, Jun Zhao.|
 | |Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures. Wenqiang Lei, Xisen Jin, Min-Yen Kan, Zhaochun Ren, Xiangnan He, Dawei Yin.|
@@ -13,26 +14,26 @@ ACL 2018 Accepted Papers
 | |Supervised Treebank Conversion: Data and Approaches. Xinzhou Jiang, Zhenghua Li, Bo Zhang, Min Zhang, Sheng Li, Luo Si.|
 | |Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders. Yansen Wang, Chenyi Liu, Minlie Huang, Liqiang Nie.|
 | |Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction. Wenya Wang, Sinno Jialin Pan.|
-| |Unsupervised Neural Machine Translation with Weight Sharing. Zhen Yang, Wei Chen, Feng Wang, Bo Xu.|
+|Machine Translation|Unsupervised Neural Machine Translation with Weight Sharing. Zhen Yang, Wei Chen, Feng Wang, Bo Xu.|
 | |Triangular Architecture for Rare Language Translation. Shuo Ren, Wenhu Chen, Shujie Liu, Mu Li, Ming Zhou, Shuai Ma.|
 |Semantic Parsing|Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing. Bo Chen, Le Sun, Xianpei Han.|
-| |A Deep Relevance Model for Zero-Shot Document Filtering. Chenliang Li, Wei Zhou, Feng Ji, Yu Duan, Haiqing Chen.|
+|A Deep Relevance Model|A Deep Relevance Model for Zero-Shot Document Filtering. Chenliang Li, Wei Zhou, Feng Ji, Yu Duan, Haiqing Chen.|
 | |Batch IS NOT Heavy: Learning Word Representations From All Samples. Xin Xin, Fajie Yuan, Xiangnan He, Joemon M Jose.|
 | |Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates. Taku Kudo.|
-| |Universal Language Model Fine-tuning for Text Classification. Jeremy Howard, Sebastian Ruder.|
+|Text Classification|Universal Language Model Fine-tuning for Text Classification. Jeremy Howard, Sebastian Ruder.|
 | |Interactive Language Acquisition with One-shot Visual Concept Learning through a Conversational Game. Haichao Zhang, Haonan Yu, Wei Xu.|
 |Event Detection|Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection. Yu Hong, Wenxuan Zhou, jingli zhang, Guodong Zhou, Qiaoming Zhu.|
-| |Improving Knowledge Graph Embedding Using Simple Constraints. Boyang Ding, Quan Wang, Bin Wang, Li Guo.|
+|Knowledge Graph Embedding|Improving Knowledge Graph Embedding Using Simple Constraints. Boyang Ding, Quan Wang, Bin Wang, Li Guo.|
 | |Taylor's law for Human Linguistic Sequences. Tatsuru Kobayashi, Kumiko Tanaka-Ishii.|
 | |A Structured Variational Autoencoder for Contextual Morphological Inflection. Ryan Cotterell, Jason Naradowsky, Sebastian J. Mielke, Lawrence Wolf-Sonkin.|
 | |Strong Baselines for Neural Semi-Supervised Learning under Domain Shift. Sebastian Ruder, Barbara Plank.|
 | |TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation. Alexander Fabbri, Irene Li, Prawat Trairatvorakul, Yijiao He, Weitai Ting, Robert Tung, Caitlin Westerfield, Dragomir Radev.|
-| |Probabilistic FastText for Multi-Sense Word Embeddings. Ben Athiwaratkun, Andrew Wilson, Anima Anandkumar.|
-| |Forest-Based Neural Machine Translation. Chunpeng Ma, Akihiro Tamura, Masao Utiyama, Tiejun Zhao, Eiichiro Sumita.|
+|Word Embeddings|Probabilistic FastText for Multi-Sense Word Embeddings. Ben Athiwaratkun, Andrew Wilson, Anima Anandkumar.|
+|Machine Translation|Forest-Based Neural Machine Translation. Chunpeng Ma, Akihiro Tamura, Masao Utiyama, Tiejun Zhao, Eiichiro Sumita.|
 | |An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking. Puyang Xu, Qi Hu.|
 | |A Neural Architecture for Automated ICD Coding. Pengtao Xie, Eric Xing.|
-| |Chinese NER Using Lattice LSTM. Yue Zhang, Jie Yang.|
-| |Fluency Boost Learning and Inference for Neural Grammatical Error Correction. Tao Ge, Furu Wei, Ming Zhou.|
+|NER|Chinese NER Using Lattice LSTM. Yue Zhang, Jie Yang.|
+|Grammatical Error Correction|Fluency Boost Learning and Inference for Neural Grammatical Error Correction. Tao Ge, Furu Wei, Ming Zhou.|
 |Semantic Parsing|Semantic Parsing with Syntax- and Table-Aware SQL Generation. Yibo Sun, Duyu Tang, Nan Duan, Jianshu Ji, Guihong Cao, Xiaocheng Feng, Bing Qin, Ting Liu, Ming Zhou.|
 | |Entity-Duet Neural Ranking: Understanding the Role of Knowledge Graph Semantics in Neural Information Retrieval. Zhenghao Liu, Chenyan Xiong, Maosong Sun, Zhiyuan Liu.|
 |Reading Comprehension|DuoRC: Towards Complex Language Understanding with Paraphrased Reading Comprehension. Amrita Saha, Rahul Aralikatte, Mitesh M. Khapra, Karthik Sankaranarayanan.|
@@ -50,7 +51,7 @@ ACL 2018 Accepted Papers
 | |Attention Focusing for Neural Machine Translation by Bridging Source and Target Embeddings. Shaohui Kuang, Junhui Li, António Branco, Weihua Luo, Deyi Xiong.|
 | |No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling. Xin Wang, Wenhu Chen, Yuan-Fang Wang, William Yang Wang.|
 | |A Unified Model for Extractive and Abstractive Summarization using Inconsistency Loss. Wan-Ting Hsu, Chieh-Kai Lin, Ming-Ying Lee, Kerui Min, Jing Tang, Min Sun.|
-| |A Graph-to-Sequence Model for AMR-to-Text Generation. Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.|
+|Text Generation|A Graph-to-Sequence Model for AMR-to-Text Generation. Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea.|
 |Semantic Parsing|Confidence Modeling for Neural Semantic Parsing. Li Dong, Chris Quirk, Mirella Lapata.|
 |Text Categorization|Disconnected Recurrent Neural Networks for Text Categorization. Baoxin Wang.|
 |Event Detection|Nugget Proposal Networks for Chinese Event Detection. Hongyu Lin, Yaojie Lu, Xianpei Han, Le Sun.|
@@ -63,12 +64,12 @@ ACL 2018 Accepted Papers
 | |Zero-Shot Transfer Learning for Event Extraction. Lifu Huang, Heng Ji, Kyunghyun Cho, Ido Dagan, Sebastian Riedel, Clare Voss.|
 | |Extractive Summarization with SWAP-NET: Sentences and Words from Alternating Pointer Networks. Aishwarya Jadhav, Vaibhav Rajan.|
 | |Morphosyntactic Tagging with a Meta-BiLSTM Model over Context Sensitive Token Encodings. Bernd Bohnet, Ryan McDonald, Gon?alo Sim?es, Daniel Andor, Emily Pitler, Joshua Maynez.|
-| |Document Similarity for Texts of Varying Lengths via Hidden Topics. Hongyu Gong, Tarek Sakakini, Suma Bhat, JinJun Xiong.|
+|Document Similarity|Document Similarity for Texts of Varying Lengths via Hidden Topics. Hongyu Gong, Tarek Sakakini, Suma Bhat, JinJun Xiong.|
 | |Neural Document Summarization by Jointly Learning to Score and Select Sentences. Qingyu Zhou, Nan Yang, Furu Wei, Shaohan Huang, Ming Zhou, Tiejun Zhao.|
 | |Neural Sparse Topical Coding. Min Peng, Qianqian Xie, Yanchun Zhang, Hua Wang, Xiuzhen Zhang, Jimin Huang, Gang Tian.|
 | |Illustrative Language Understanding: Large-Scale Visual Grounding with Image Search. Jamie Kiros, William Chan, Geoffrey Hinton.|
 | |Sentence-State LSTM for Text Representation. Yue Zhang, Qi Liu, Linfeng Song.|
-| |Inherent Biases in Reference-based Evaluation for Grammatical Error Correction. Leshem Choshen, Omri Abend.|
+|Grammatical Error Correction|Inherent Biases in Reference-based Evaluation for Grammatical Error Correction. Leshem Choshen, Omri Abend.|
 | |Guess Me if You Can: Acronym Disambiguation for Enterprises. Yang Li, Bo Zhao, Ariel Fuxman, Fangbo Tao.|
 |Reading Comprehension|Simple and Effective Multi-Paragraph Reading Comprehension. Christopher Clark, Matt Gardner.|
 | |Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference. Boyuan Pan, Yazheng Yang, Zhou Zhao, Yueting Zhuang, Deng Cai, Xiaofei He.|
@@ -86,41 +87,41 @@ ACL 2018 Accepted Papers
 | |Finding syntax in human encephalography with beam search. John Hale, Chris Dyer, Adhiguna Kuncoro, Jonathan Brennan.|
 | |Discourse Representation Structure Parsing. Jiangming Liu, Shay B. Cohen, Mirella Lapata.|
 | |Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems. Andrea Madotto, Chien-Sheng Wu, Pascale Fung.|
-| |Mining Cross-Cultural Differences and Similarities in Social Media. Bill Yuchen Lin, Frank F. Xu, Kenny Zhu, Seung-won Hwang.|
+|Social Media|Mining Cross-Cultural Differences and Similarities in Social Media. Bill Yuchen Lin, Frank F. Xu, Kenny Zhu, Seung-won Hwang.|
 | |Simple and Effective Text Simplification Using Semantic and Neural Methods. Elior Sulem, Omri Abend, Ari Rappoport.|
 | |Improving Entity Linking by Modeling Latent Relations between Mentions. Phong Le, Ivan Titov.|
 |Natural Language Inference|Neural Natural Language Inference Models Enhanced with External Knowledge. Qian Chen, Xiaodan Zhu, Zhen-Hua Ling, Diana Inkpen, Si Wei.|
 |Grammatical Error Correction|Automatic Metric Validation for Grammatical Error Correction. Leshem Choshen, Omri Abend.|
-| |Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization. Ziqiang Cao, Wenjie Li, Sujian Li, Furu Wei.|
+|Summarization|Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization. Ziqiang Cao, Wenjie Li, Sujian Li, Furu Wei.|
 | |Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data. Adithya Pratapa, Gayatri Bhat, Monojit Choudhury, Sunayana Sitaram, Sandipan Dandapat, Kalika Bali.|
 | |The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing. Rotem Dror, Gili Baumer, Segev Shlomov, Roi Reichart.|
 | |Unsupervised Learning of Distributional Relation Vectors. Shoaib Jameel, Zied Bouraoui, Steven Schockaert.|
 | |On the Limitations of Unsupervised Bilingual Dictionary Induction. Anders S?gaard, Sebastian Ruder, Ivan Vuli?.|
-| |Knowledge Diffusion for Neural Dialogue Generation. Shuman Liu, Hongshen Chen, Zhaochun Ren, Yang Feng, Qun Liu, Dawei Yin.|
+|Dialogue Generation|Knowledge Diffusion for Neural Dialogue Generation. Shuman Liu, Hongshen Chen, Zhaochun Ren, Yang Feng, Qun Liu, Dawei Yin.|
 | |Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback. Carolin Lawrence, Stefan Riezler.|
 |Sentiment Classification|Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification. Raksha Sharma, Pushpak Bhattacharyya, Sandipan Dandapat, Himanshu Sharad Bhatt.|
-| |From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction. Zihang Dai, Qizhe Xie, Eduard Hovy.|
+|Sequence Prediction|From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction. Zihang Dai, Qizhe Xie, Eduard Hovy.|
 | |Generating Informative Responses with Controlled Sentence Function. Pei Ke, Jian Guan, Minlie Huang, xiaoyan zhu.|
 |Reading Comprehension|Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification. Yizhong Wang, Kai Liu, Jing Liu, Wei He, Yajuan Lyu, Hua Wu, Sujian Li, Haifeng Wang.|
 |Reading Comprehension|Joint Training of Candidate Extraction and Answer Selection for Reading Comprehension. Zhen Wang, Jiachen Liu, Xinyan Xiao, Yajuan Lyu, Tian Wu.|
 | |Retrieval of the Best Counterargument without Prior Topic Knowledge. Henning Wachsmuth, Shahbaz Syed, Benno Stein.|
 | |Higher-order Relation Schema Induction using Tensor Factorization with Back-off and Aggregation. Madhav Nimishakavi, Manish Gupta, Partha Talukdar.|
 | |Coherence Modeling of Asynchronous Conversations: A Neural Entity Grid Approach. Shafiq Joty, Muhammad Tasnim Mohiuddin, Dat Tien Nguyen.|
-| |AMR dependency parsing with a typed semantic algebra. Jonas Groschwitz, Matthias Lindemann, Meaghan Fowlie, Mark Johnson, Alexander Koller.|
+|Dependency Parsing|AMR dependency parsing with a typed semantic algebra. Jonas Groschwitz, Matthias Lindemann, Meaghan Fowlie, Mark Johnson, Alexander Koller.|
 | |Discovering Implicit Knowledge with Unary Relations. Michael Glass, Alfio Gliozzo.|
 |Machine Translation|Context-Aware Neural Machine Translation Learns Anaphora Resolution. Elena Voita, Pavel Serdyukov, Rico Sennrich, Ivan Titov.|
 | |Visual Attention Model for Name Tagging in Multimodal Social Media. Di Lu, Leonardo Neves, Vitor Carvalho, Ning Zhang, Heng Ji.|
-| |Aspect Based Sentiment Analysis with Gated Convolutional Networks. Wei Xue, Tao Li.|
+|Sentiment Analysis|Aspect Based Sentiment Analysis with Gated Convolutional Networks. Wei Xue, Tao Li.|
 | |Ultra-Fine Entity Typing. Eunsol Choi, Omer Levy, Yejin Choi, Luke Zettlemoyer.|
 | |What you can cram into a single \$\&!\#* vector: Probing sentence embeddings for linguistic properties. Alexis Conneau, Germán Kruszewski, Guillaume Lample, Lo?c Barrault, Marco Baroni.|
-| |A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling. Ying Lin, Shengqi Yang, Veselin Stoyanov, Heng Ji.|
+|Sequence Labeling|A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling. Ying Lin, Shengqi Yang, Veselin Stoyanov, Heng Ji.|
 | |Deep Reinforcement Learning for Chinese Zero Pronoun Resolution. Qingyu Yin, Yu Zhang, Wei-Nan Zhang, Ting Liu, William Yang Wang.|
 | |Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers. Georgios Spithourakis, Sebastian Riedel.|
 | |Efficient and Robust Question Answering from Minimal Context over Documents. Sewon Min, Victor Zhong, Richard Socher, Caiming Xiong.|
 | |Bridging CNNs, RNNs, and Weighted Finite-State Machines. Roy Schwartz, Sam Thomson, Noah A. Smith.|
 | |Sequence-to-sequence Models for Cache Transition Systems. Xiaochang Peng, Linfeng Song, Daniel Gildea, Giorgio Satta.|
 | |Neural Argument Generation Augmented with Externally Retrieved Evidence. Xinyu Hua, Lu Wang.|
-| |Character-Level Models versus Morphology in Semantic Role Labeling. Gozde Gul Sahin, Mark Steedman.|
+|SRL|Character-Level Models versus Morphology in Semantic Role Labeling. Gozde Gul Sahin, Mark Steedman.|
 | |Composing Finite State Transducers on GPUs. Arturo Argueta, David Chiang.|
 | |Generating Fine-Grained Open Vocabulary Entity Type Descriptions. Rajarshi Bhowmik, Gerard de Melo.|
 | |A Purely End-to-End System for Multi-speaker Speech Recognition. Hiroshi Seki, Takaaki Hori, Shinji Watanabe, Jonathan Le Roux, John R Hershey.|
@@ -131,7 +132,7 @@ ACL 2018 Accepted Papers
 | |Adversarial Contrastive Estimation. Avishek Joey Bose, huan ling, Yanshuai Cao.|
 |Question-Answer|Harvesting Paragraph-level Question-Answer Pairs from Wikipedia. Xinya Du, Claire Cardie.|
 | |Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization. Guokan Shang, Wensi Ding, Zekun Zhang, Antoine Tixier, Polykarpos Meladianos, Michalis Vazirgiannis, Jean-Pierre Lorré.|
-| |Joint Embedding of Words and Labels for Text Classification. Guoyin Wang, Chunyuan Li, Wenlin Wang, Yizhe Zhang, Dinghan Shen, Xinyuan Zhang, Ricardo Henao, Lawrence Carin.|
+|Text Classification|Joint Embedding of Words and Labels for Text Classification. Guoyin Wang, Chunyuan Li, Wenlin Wang, Yizhe Zhang, Dinghan Shen, Xinyuan Zhang, Ricardo Henao, Lawrence Carin.|
 | |Document Modeling with External Attention for Sentence Extraction. Shashi Narayan, Ronald Cardenas, Nikos Papasarantopoulos, Shay B. Cohen, Mirella Lapata, Jiangsheng Yu, Yi Chang.|
 | |The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation. Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, Macduff Hughes.|
 | |Distilling Knowledge for Search-based Structured Prediction. Yijia Liu, Wanxiang Che, Huaipeng Zhao, Bing Qin, Ting Liu.|
@@ -139,11 +140,11 @@ ACL 2018 Accepted Papers
 | |NASH: Toward End-to-End Neural Architecture for Generative Semantic Hashing. Dinghan Shen, Qinliang Su, Paidamoyo Chapfuwa, Wenlin Wang, Guoyin Wang, Ricardo Henao, Lawrence Carin.|
 | |AMR Parsing as Graph Prediction with Latent Alignment. Chunchuan Lyu, Ivan Titov.|
 | |Rumor Detection on Twitter with Tree-structured Recursive Neural Networks. Jing Ma, Wei Gao, Kam-Fai Wong.|
-| |Towards Robust Neural Machine Translation. Yong Cheng, Zhaopeng Tu, Fandong Meng, Junjie Zhai, Yang Liu.|
+|Machine Translation|Towards Robust Neural Machine Translation. Yong Cheng, Zhaopeng Tu, Fandong Meng, Junjie Zhai, Yang Liu.|
 | |Learning Translations via Images with a Massively Multilingual Image Dataset. John Hewitt, Daphne Ippolito, Brendan Callahan, Reno Kriz, Derry Tanti Wijaya, Chris Callison-Burch.|
 | |Isomorphic Transfer of Syntactic Structures in Cross-Lingual NLP. Edoardo Maria Ponti, Roi Reichart, Anna Korhonen, Ivan Vuli?.|
 | |A Framework for Representing Language Acquisition in a Population Setting. Jordan Kodner, Christopher Cerezo Falco.|
-| |A Helping Hand: Transfer Learning for Deep Sentiment Analysis. Xin Dong, Gerard de Melo.|
+|Sentiment Analysis|A Helping Hand: Transfer Learning for Deep Sentiment Analysis. Xin Dong, Gerard de Melo.|
 |Reading Comprehension|Stochastic Answer Networks for Machine Reading Comprehension. Xiaodong Liu, Yelong Shen, Kevin Duh, Jianfeng Gao.|
 | |Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning. Piyush Sharma, Nan Ding, Sebastian Goodman, Radu Soricut.|
 | |Improving Text-to-SQL Evaluation Methodology. Catherine Finegan-Dollak, Jonathan K. Kummerfeld, Li Zhang, Karthik Ramanathan, Sesh Sadasivam, Rui Zhang, Dragomir Radev.|
@@ -152,11 +153,11 @@ ACL 2018 Accepted Papers
 | |Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning. Baolin Peng, Xiujun Li, Jianfeng Gao, Jingjing Liu, Kam-Fai Wong.|
 | |Deep-speare: A joint neural model of poetic language, meter and rhyme. Jey Han Lau, Trevor Cohn, Timothy Baldwin, Julian Brooke, Adam Hammond.|
 | |A Multi-Axis Annotation Scheme for Event Temporal Relations. Qiang Ning, Hao Wu, Dan Roth.|
-| |Context-Aware Neural Model for Temporal Information Extraction. Yuanliang Meng, Anna Rumshisky.|
+|Information Extraction|Context-Aware Neural Model for Temporal Information Extraction. Yuanliang Meng, Anna Rumshisky.|
 | |Joint Reasoning for Temporal and Causal Relations. Qiang Ning, Zhili Feng, Hao Wu, Dan Roth.|
 | |Subword-level Word Vector Representations for Korean. Sungjoon Park, Jeongmin Byun, Sion Baek, Yongseok Cho, Alice Oh.|
 | |Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples. Vidur Joshi, Matthew Peters, Mark Hopkins.|
-| |NeuralREG: An end-to-end approach to referring expression generation. Thiago Castro Ferreira, Diego Moussallem, ákos Kádár, Sander Wubben, Emiel Krahmer.|
+|expression generation|NeuralREG: An end-to-end approach to referring expression generation. Thiago Castro Ferreira, Diego Moussallem, ákos Kádár, Sander Wubben, Emiel Krahmer.|
 | |Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words. Saif Mohammad.|
 | |Using Intermediate Representations to Solve Math Word Problems. Danqing Huang, Jin-Ge Yao, Chin-Yew Lin, Qingyu Zhou, Jian Yin.|
 | |Not that much power: Linguistic alignment is influenced more by low-level linguistic features rather than social power. Yang Xu, Jeremy Cole, David Reitter.|
@@ -177,18 +178,18 @@ ACL 2018 Accepted Papers
 | |Think Visually: Question Answering through Virtual Imagery. Ankit Goyal, Jian Wang, Jia Deng.|
 |Machine Translation|Document Context Neural Machine Translation with Memory Networks. Sameen Maruf, Gholamreza Haffari.|
 | |Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context. Urvashi Khandelwal, He He, Peng Qi, Dan Jurafsky.|
-| |Global Transition-based Non-projective Dependency Parsing. Carlos Gómez-Rodríguez, Tianze Shi, Lillian Lee.|
+|Dependency Parsing|Global Transition-based Non-projective Dependency Parsing. Carlos Gómez-Rodríguez, Tianze Shi, Lillian Lee.|
 | |Improving Event Coreference Resolution by Modeling Correlations between Event Coreference Chains and Document Topic Structures. Prafulla Kumar Choubey, Ruihong Huang.|
 |Word Embeddings|Searching for the X-Factor: Exploring Corpus Subjectivity for Word Embeddings. Maksim Tkachenko, Chong Cher Chia, Hady Lauw.|
 | |Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning. Hongge Chen, Huan Zhang, Pin-Yu Chen, Jinfeng Yi, Cho-Jui Hsieh.|
 | |Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information. Sudha Rao, Hal Daumé III.|
 | |Backpropagating through Structured Argmax using a SPIGOT. Hao Peng, Sam Thomson, Noah A. Smith.|
-| |Stack-Pointer Networks for Dependency Parsing. Xuezhe Ma, Zecong Hu, Jingzhou Liu, Nanyun Peng, Graham Neubig, Eduard Hovy.|
+|Dependency Parsing|Stack-Pointer Networks for Dependency Parsing. Xuezhe Ma, Zecong Hu, Jingzhou Liu, Nanyun Peng, Graham Neubig, Eduard Hovy.|
 | |Hierarchical Neural Story Generation. Angela Fan, Mike Lewis, Yann Dauphin.|
-| |Multi-Relational Question Answering from Narratives: Machine Reading and Reasoning in Simulated Worlds. Igor Labutov, Bishan Yang, Anusha Prakash, Amos Azaria.|
-| |Style Transfer Through Back-Translation. Shrimai Prabhumoye, Yulia Tsvetkov, Ruslan Salakhutdinov, Alan W Black.|
+|Question Answering|Multi-Relational Question Answering from Narratives: Machine Reading and Reasoning in Simulated Worlds. Igor Labutov, Bishan Yang, Anusha Prakash, Amos Azaria.|
+|Transfer|Style Transfer Through Back-Translation. Shrimai Prabhumoye, Yulia Tsvetkov, Ruslan Salakhutdinov, Alan W Black.|
 | |Graph-to-Sequence Learning using Gated Graph Neural Networks. Daniel Beck, Gholamreza Haffari, Trevor Cohn.|
-| |Twitter Universal Dependency Parsing for African-American and Mainstream American English. Su Lin Blodgett, Johnny Wei, Brendan O'Connor.|
+|Dependency Parsing|Twitter Universal Dependency Parsing for African-American and Mainstream American English. Su Lin Blodgett, Johnny Wei, Brendan O'Connor.|
 | |Incorporating Chinese Characters of Words for Lexical Sememe Prediction. Huiming Jin, Hao Zhu, Zhiyuan Liu, Ruobing Xie, Maosong Sun, Fen Lin, Leyu Lin.|
 | |Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach. Jingjing Xu, Xu SUN, Qi Zeng, Xiaodong Zhang, Xuancheng Ren, Houfeng Wang, Wenjie Li.|
 |Machine Translation|A Stochastic Decoder for Neural Machine Translation. Philip Schulz, Wilker Aziz, Trevor Cohn.|
@@ -268,8 +269,8 @@ ACL 2018 Accepted Papers
 |Response Selection|Learning Matching Models with Weak Supervision for Response Selection in Retrieval-based Chatbots. Yu Wu, wei wu, Zhoujun Li, Ming Zhou.|
 | |Continuous Learning in a Hierarchical Multiscale Neural Network. Thomas Wolf, Julien Chaumond, Clement Delangue.|
 | |Hybrid semi-Markov CRF for Neural Sequence Labeling. Zhixiu Ye, Zhen-Hua Ling.|
-| |A Named Entity Recognition Shootout for German. Martin Riedl, Sebastian Padó.|
-| |Dynamic and Static Topic Model for Analyzing Time-Series Document Collections. Rem Hida, Naoya Takeishi, Takehisa Yairi, Koichi Hori.|
+|NER|A Named Entity Recognition Shootout for German. Martin Riedl, Sebastian Padó.|
+|Topic Model|Dynamic and Static Topic Model for Analyzing Time-Series Document Collections. Rem Hida, Naoya Takeishi, Takehisa Yairi, Koichi Hori.|
 | |Paper Abstract Writing through Editing Mechanism. Qingyun Wang, Zhihao Zhou, Lifu Huang, Spencer Whitehead, Boliang Zhang, Heng Ji, Kevin Knight.|
 | |A dataset for identifying actionable feedback in collaborative software development. Benjamin S Meyers, Nuthan Munaiah, Emily Prud'hommeaux, Andrew Meneely, Josephine Wolff, Cecilia Ovesdotter Alm, Pradeep Murukannaiah.|
 | |SNAG: Spoken Narratives and Gaze Dataset. Preethi Vaidyanathan, Emily T. Prud'hommeaux, Jeff B. Pelz, Cecilia O. Alm.|
@@ -359,7 +360,7 @@ ACL 2018 Accepted Papers
 | |Conditional Generators of Words Definitions. Artyom Gadetsky, Ilya Yakubovskiy, Dmitry Vetrov.|
 |Machine Translation|Adaptive Knowledge Sharing in Multi-Task Learning: Improving Low-Resource Neural Machine Translation. Poorya Zaremoodi, Wray Buntine, Gholamreza Haffari.|
 | |Towards Robust and Privacy-preserving Text Representations. Yitong Li, Timothy Baldwin, Trevor Cohn.|
-| |HotFlip: White-Box Adversarial Examples for Text Classification. Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou.|
+|Text Classification|HotFlip: White-Box Adversarial Examples for Text Classification. Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou.|
 | |Enhancing Drug-Drug Interaction Extraction from Texts by Molecular Structure Information. Masaki Asada, Makoto Miwa, Yutaka Sasaki.|
 | |Injecting Relational Structural Representation in Neural Networks for Question Similarity. Antonio Uva, Daniele Bonadiman, Alessandro Moschitti.|
 |Sentence Embeddings|Exploring Semantic Properties of Sentence Embeddings. Xunjie Zhu, Tingfeng Li, Gerard de Melo.|
@@ -376,7 +377,7 @@ ACL 2018 Accepted Papers
 |Reading Comprehension|A Co-Matching Model for Multi-choice Reading Comprehension. Shuohang Wang, Mo Yu, Jing Jiang, Shiyu Chang.|
 |Relation Extraction|A Walk-based Model on Entity Graphs for Relation Extraction. Fenia Christopoulou, Makoto Miwa, Sophia Ananiadou.|
 | |Learning Thematic Similarity Metric from Article Sections Using Triplet Networks. Liat Ein Dor, Yosi Mass, Alon Halfon, Elad Venezian, Ilya Shnayderman, Ranit Aharonov, Noam Slonim.|
-| |Simpler but More Accurate Semantic Dependency Parsing. Timothy Dozat, Christopher D. Manning.|
+|Dependency Parsing|Simpler but More Accurate Semantic Dependency Parsing. Timothy Dozat, Christopher D. Manning.|
 | |'Lighter' Can Still Be Dark: Modeling Comparative Color Descriptions. Olivia Winn, Smaranda Muresan.|
 |Semantic Parsing|Learning Cross-lingual Distributed Logical Representations for Semantic Parsing. Yanyan Zou, Wei Lu.|
 | |Learning with Structured Representations for Negation Scope Extraction. Hao Li, Wei Lu.|
